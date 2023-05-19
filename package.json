@@ -1,6 +1,6 @@
 {
   "name": "postgraphile-schema-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolve schema name conficts when using alias ",
   "main": "index.js",
   "scripts": {
