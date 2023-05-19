@@ -1,0 +1,28 @@
+{
+  "name": "postgraphile-schema-resolver",
+  "version": "1.0.0",
+  "description": "Resolve schema name conficts when using alias ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subant05/postgraphile-schema-resolver.git"
+  },
+  "keywords": [
+    "postgraphile",
+    "postgraphile",
+    "schema",
+    "resolver"
+  ],
+  "author": "Anthony Crawford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subant05/postgraphile-schema-resolver/issues"
+  },
+  "homepage": "https://github.com/subant05/postgraphile-schema-resolver#readme",
+  "dependencies": {
+    "graphile-utils": "^4.13.0"
+  }
+}
